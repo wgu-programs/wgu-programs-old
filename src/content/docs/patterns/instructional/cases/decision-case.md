@@ -1,14 +1,10 @@
 ---
 title: 'Decision Case'
 excerpt: ''
-when_to_use_0_when_to_use:
-  - 'A learner needs to make a complex decision, taking into consideration a variety of factors.'
 when_to_use:
-  - '1'
-requirements_0_requirement:
-  - 'A situation that requires a decision to be made'
+  - 'A learner needs to make a complex decision, taking into consideration a variety of factors.'
 requirements:
-  - '1'
+  - 'A situation that requires a decision to be made'
 structure:
   [
     'Explore a case',
