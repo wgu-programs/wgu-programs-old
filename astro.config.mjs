@@ -23,9 +23,47 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Reference',
+					label: 'Components',
+					items: [
+						// Each item here is one entry in the navigation menu.
+						{
+							label: 'Pathways',
+							link: '/components/pathways/',
+						},
+						{
+							label: 'Courses',
+							link: '/components/courses/',
+						},
+						{
+							label: 'Competencies',
+							link: '/components/competencies/',
+						},
+						{
+							label: 'Lessons',
+							link: '/components/lessons/',
+						},
+						{
+							label: 'Skills',
+							link: '/components/skills/',
+						},
+					],
+				},
+				{
+					label: 'Patterns',
+					autogenerate: {
+						directory: 'patterns',
+					},
+				},
+				{
+					label: 'Automated Testing',
 					autogenerate: {
 						directory: 'reference',
+					},
+				},
+				{
+					label: 'Roles',
+					autogenerate: {
+						directory: 'roles',
 					},
 				},
 			],
@@ -35,8 +73,8 @@ export default defineConfig({
 			],
 		}),
 		tailwind({
-			 // Disable the default base styles:
-			 applyBaseStyles: false,
+			// Disable the default base styles:
+			applyBaseStyles: false,
 		}),
 	],
 });
