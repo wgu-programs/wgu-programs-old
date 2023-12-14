@@ -62,4 +62,19 @@ structure_10_title:
 structure_10_description:
     - 'Provide tools and opportunities for the learner to receive feedback on their strategic performance and the results of their actions.'
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
+
 A strategic performance problem involves learners engaging in real-time, complex, and integrated activities to achieve a strategic objective while maintaining situational awareness. This pattern aims to develop learners’ decision-making, improvisation, prioritization, planning, and situational awareness skills.
+
+## Examples
+
+Coming soon

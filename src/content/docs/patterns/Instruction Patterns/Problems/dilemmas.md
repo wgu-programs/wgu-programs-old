@@ -56,4 +56,18 @@ structure_6_title:
 structure_6_description:
     - ''
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
 A dilemma involves learners in complex, ill-structured situations with conflicting perspectives where no solution will satisfy all parties involved. The goal is to develop critical thinking, empathy, and negotiation skills while navigating these challenging scenarios.
+
+## Examples
+
+Coming soon

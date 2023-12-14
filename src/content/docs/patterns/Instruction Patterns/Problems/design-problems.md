@@ -76,8 +76,22 @@ structure_11_description:
 structure:
     - '12'
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
 A design problem engages learners in creating unique solutions, products, systems, or processes, considering various factors and constraints while emphasizing critical thinking, creativity, decision-making, and collaboration.
 
 - Design is not a linear process.
 - Provide learners with the agency for decision-making and design.
 - Usually leads to a performance assessment.
+
+## Examples
+
+Coming soon

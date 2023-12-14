@@ -52,4 +52,17 @@ structure:
 dce_widgets:
     - 'a:11:{s:15:"theme-site-logo";a:1:{s:8:"30ea3fc7";i:1;}s:8:"nav-menu";a:2:{s:7:"19b36b8";i:1;s:7:"967f443";i:1;}s:11:"breadcrumbs";a:1:{s:7:"7e921ad";i:1;}s:11:"search-form";a:1:{s:7:"13f1359";i:1;}s:16:"theme-post-title";a:1:{s:8:"4b703c82";i:1;}s:18:"theme-post-excerpt";a:1:{s:7:"daee29f";i:1;}s:18:"theme-post-content";a:1:{s:8:"2c888319";i:1;}s:7:"heading";a:4:{s:7:"b5f1d9f";i:1;s:7:"8152b89";i:1;s:7:"a117dd0";i:1;s:7:"e2db05a";i:1;}s:17:"table-of-contents";a:1:{s:7:"b9b0ada";i:1;}s:9:"post-info";a:1:{s:8:"2c4a968a";i:1;}s:11:"text-editor";a:1:{s:7:"f8c36c4";i:1;}}'
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
 Deliberate practice is a focused and systematic approach to skill improvement, which involves conscious effort, active engagement, and continuous feedback. This method emphasizes setting specific goals, identifying weaknesses, and utilizing just-in-time guidance from experts to progress efficiently and effectively.
+
+## Examples
+Coming soon.

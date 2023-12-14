@@ -16,7 +16,3 @@ Courses vary in content but have a common structure.
 ### Course Resources
 
 ### Course Assessment
-
-## Further reading
-
-- Read [about reference](https://diataxis.fr/reference/) in the Diátaxis framework

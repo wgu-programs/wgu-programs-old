@@ -24,6 +24,7 @@ export default defineConfig({
 				},
 				{
 					label: 'Components',
+					collapsed: true,
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{
@@ -49,21 +50,33 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Patterns',
+					label: 'Instruction Patterns',
 					autogenerate: {
-						directory: 'patterns',
+						directory: 'patterns/Instruction Patterns',
+						collapsed: true,
 					},
 				},
 				{
-					label: 'Automated Testing',
+					label: 'Sequence Patterns',
+					autogenerate: {
+						directory: 'patterns/Sequence Patterns',
+					},
+					collapsed: true,
+				},
+				{
+					label: 'QA Testing',
 					autogenerate: {
 						directory: 'reference',
+						collapsed: true,
 					},
+					badge: { text: 'Experimental', variant: 'caution' },
 				},
 				{
-					label: 'Roles',
+					label: 'Team Roles',
+					collapsed: true,
 					autogenerate: {
 						directory: 'roles',
+						collapsed: true,
 					},
 				},
 			],

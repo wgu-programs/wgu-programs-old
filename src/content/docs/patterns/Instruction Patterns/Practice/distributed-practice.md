@@ -58,4 +58,17 @@ content-sequences:
 tagline:
     - 'Interval training for your brain'
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
 Distributed practice is a learning technique that involves spreading study sessions over time instead of cramming them into a short period. By allowing time between practice sessions, learners can consolidate and strengthen their memories, resulting in more effective long-term retention of knowledge and skills.
+
+## Examples
+Coming soon

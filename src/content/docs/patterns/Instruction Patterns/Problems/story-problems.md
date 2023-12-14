@@ -46,4 +46,19 @@ structure_6_description:
 structure:
     - '7'
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
+
 Story Problems, also known as word problems, are used to teach learners to apply algorithms within a context by embedding mathematical values in a brief story. The purpose of story problems is to develop learners’ ability to identify key information, select the appropriate algorithm, and apply the algorithm to solve the problem while also checking their responses.
+
+## Examples
+
+Coming soon

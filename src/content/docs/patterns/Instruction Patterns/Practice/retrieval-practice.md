@@ -48,8 +48,19 @@ content-sequences:
 tagline:
     - ''
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
 Retrieval practice involves recalling information from memory rather than simply re-reading or reviewing the material. This technique promotes long-term knowledge retention, strengthening neural connections and consolidating memory. By frequently and deliberately attempting to retrieve information, learners reinforce their understanding and enhance their ability to recall concepts in the future.
 
 If students do not get recall questions correct, add a link back to placement in course content AND provide a link for additional content for learning (video, article, etc.).
 
-> 
+## Examples
+Coming soon

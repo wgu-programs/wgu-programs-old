@@ -66,4 +66,17 @@ content-sequences:
 tagline:
     - ''
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
 Interleaved practice is an evidence-based learning technique that involves mixing distinct yet related skills, topics, or problem types within a single study session instead of focusing on one skill at a time. This method promotes better retention and transfer of knowledge, as it challenges the brain to recognize and apply appropriate strategies to solve diverse problems.
+
+## Examples
+Coming soon

@@ -60,4 +60,17 @@ structure_8_title:
 structure_8_description:
     - 'Use the algorithm to solve the given problem, as well as similar or related problems that may arise in the future. '
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
 Algorithmic problems involve following a finite and rigid set of procedures with limited predictive decisions to reach a solution. Commonly found in mathematics, science, and computer science, these problems emphasize procedural knowledge and calculation skills.
+
+## Examples
+Coming soon

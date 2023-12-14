@@ -52,4 +52,19 @@ structure_6_title:
 structure_6_description:
     - ''
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
+
 Rule-using/induction problems require learners to apply multiple rules or procedures to reach a correct solution while considering various solutions. These problems help learners develop strategic thinking and adaptability in problem-solving.
+
+## Examples
+
+Coming soon

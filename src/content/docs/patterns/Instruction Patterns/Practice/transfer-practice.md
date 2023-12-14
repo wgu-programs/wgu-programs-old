@@ -56,6 +56,20 @@ structure_4_description:
 structure:
     - '5'
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
+
 AKA Variable Practice, Varied-Application Practice
 
 Transfer practice is a learning technique that involves practicing skills or solving problems in a variety of contexts, conditions, or situations. This approach helps learners adapt and generalize their knowledge, making it easier to transfer and apply their skills to new and unfamiliar scenarios. It is based on the elaboration theory (from Charles Reigeluth).
+
+## Examples
+Coming soon

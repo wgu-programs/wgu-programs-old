@@ -38,11 +38,20 @@ structure_5_description:
 structure:
     - '6'
 ---
+
+:::tip[When to use]
+
+- [ ] Todo
+:::
+
+:::tip[Requirements]
+
+- [ ] Todo
+:::
+
 Kata is a Japanese term that refers to a detailed, choreographed pattern of movements practiced to achieve perfection in martial arts. People in fields other than martial arts have realized the effectiveness of katas. Perhaps the most notable example of using katas outside of martial arts is when Toyota executives integrated the practice into the Toyota Production System. Katas can be used to incorporate continuous improvement and problem-solving techniques into their daily work routines.
 
-Example Uses
-------------
-
+## Examples
 - Coding (E.g., Practice writing small snippets until they become automatic, then solve the same practice problem repeatedly.)
 - Mathematics
 - Engineering (E.g., solar panel installation, creating a blueprint)
