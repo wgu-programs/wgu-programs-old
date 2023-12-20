@@ -50,9 +50,9 @@ export default defineConfig({
 					],
 				},
 				{
-					label: 'Instruction Patterns',
+					label: 'Patterns',
 					autogenerate: {
-						directory: 'patterns/Instruction Patterns',
+						directory: 'patterns/Patterns',
 						collapsed: true,
 					},
 				},

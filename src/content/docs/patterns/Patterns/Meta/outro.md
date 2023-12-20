@@ -1,0 +1,28 @@
+---
+title: 'Outro'
+excerpt: ''
+---
+## Pattern Structure
+
+### Review what is learned and why it matters
+
+### Administer tests or quizzes to measure understanding
+
+- Use performance-based assessments like presentations or projects.
+- Conduct interviews or oral exams.
+- Use portfolios or journals for assessment.
+- Implement practical exams or skill demonstrations.
+
+### Enhance Retention and Transfer
+
+- Discuss how the new knowledge can be applied in different contexts.
+- Encourage learners to reflect on what they have learned.
+- Provide follow-up activities or extended learning opportunities.
+- Use spaced repetition and review sessions.
+- Encourage learners to teach others or apply skills in real-life situations.
+
+### Explore what’s next future pathways
+
+### Congratulate the student on development
+
+### Sign off

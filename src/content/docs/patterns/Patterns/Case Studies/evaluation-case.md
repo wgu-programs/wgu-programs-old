@@ -21,14 +21,14 @@ An evaluation case requires learners to evaluate the “worth, value, performanc
 
 ## Pattern Structure
 
-### Explore a case
+### 1. Explore a case
 
-### Identify subject
+### 2. Identify subject
 
-### Criteria-based analysis
+### 3. Criteria-based analysis
 
-### Recommend action
+### 4. Recommend action
 
-### Receive feedback
+### 5. Receive feedback
 
 ## Examples

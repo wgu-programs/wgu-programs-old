@@ -12,16 +12,27 @@ A learner needs to make a complex decision, taking into consideration a variety 
 A situation that requires a decision to be made
 :::
 
-## Pattern Structure
+## [Introduction](../Meta/Intro.md) (\* Required)
 
-### 1. Explore a case
+Before beginning a Decision Case, use the Intro pattern to set the stage for the learning experience.
 
-### 2. Identify the decision
+## 1. Explore a case
 
-### 3. Explore options
+### Assign a role to the learner
 
-### 4. Make a decision
+### Case Background Information
 
-### 5. Receive feedback
+## 2. Practice (Repeatable)
+
+### Identify the decision
+
+### Explore options
+
+### Make a decision
+
+
+## 5. Case Debrief
+
+## [Outro](../Meta/Outro.md) (\* Required)
 
 ## Examples

@@ -19,16 +19,16 @@ A problem-diagnosis case involves a learner identifying the root causes, such as
 
 ## Pattern Structure
 
-### Explore a case
+### 1. Explore a case
 
-### Identify the problem
+### 2. Identify the problem
 
-### Find the root cause
+### 3. Find the root cause
 
-### Overall diagnosis
+### 4. Overall diagnosis
 
-### Recommend action
+### 5. Recommend action
 
-### Receive feedback  
+### 6. Receive feedback  
 
 ## Examples
