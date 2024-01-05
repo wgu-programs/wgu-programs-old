@@ -7,13 +7,13 @@ import react from '@astrojs/react';
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://wgu-programs.github.io/wgu-programs/',
 	integrations: [
 		starlight({
 			title: 'Structured Rapid Development',
 			// logo: {
 			// 	src: './src/assets/srd.svg',
 			// },
-      site: '',
 			defaultLocale: 'en',
 			sidebar: [
 				{
