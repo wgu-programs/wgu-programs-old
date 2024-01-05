@@ -1,9 +1,9 @@
 ---
 title: Competencies
-description: A reference page in my new Starlight docs site.
 ---
 import { Card } from '@astrojs/starlight/components';
-import { CollapseCard } from './CollapseCard.astro';
+import { default as CollapseCard } from '../../../ui-components/CollapseCard.jsx';
+
 Competencies are the fundamental building block of learning at WGU. They are a "measurable, assessable capability of an individual to successfully complete activities and perform tasks at a determined level, ranging from a fundamental awareness to advanced application of knowledge and skills"[^1].
 
 When writing competencies, designers define its title, statement, level, and identify contributing skills (RSDs).
@@ -29,108 +29,8 @@ When writing competencies, designers define its title, statement, level, and ide
 
 Competencies have three required primary parts: an introduction, the lesson(s), and an outro.
 
-## 1. Intro
 
-The introduction is our chance to engage the learner and establish the overarching theme or topic of the competency.
-
-### Welcome the learner enthusiastically
-
-A warm welcome is essential for fostering a positive learning environment, as it builds rapport, makes learners feel valued, and enhances their engagement. It also helps reduce anxiety and apprehension, setting a positive tone for the learning experience.
-
-<CollapseCard title="Examples">
-	- Hi! Welcome to *Becoming an Advocate for Inclusivity and Cultural
-	Awareness*.
-  - Welcome to *Becoming an Advocate for Inclusivity and Cultural
-	Awareness*, a journey where we embrace diversity and foster understanding
-	together!
-  - Hello and a heartfelt welcome to *Becoming an Advocate for
-	Inclusivity and Cultural Awareness*!
-</CollapseCard>
-
-### Gain the learner's active attention
-
-Capturing the learners' attention at the start sets the stage for effective learning by ensuring they are mentally prepared and focused on the material. A learner’s motivation is often tied to how much they think the material is important or useful.
-
-<Card title='Examples'>
-	#### Begin with an interesting story or anecdote, possibly from a workplace
-	setting, to illustrate how the competency benefits them professionally. Show a
-	surprising or intriguing video on the topic to immediately engage learners and
-	highlight the subject's importance. Pose a challenging question or problem
-	that relates to real-world applications, encouraging learners to see the
-	material's practical value.
-</Card>
-
-### Plan the learning with the learner
-
-Explain the resources we provide for building competence and invite the learner to assess their current level of competence. Explain the learning pattern and why it was chosen.
-
-<Card title='Examples'>
-	Provide a roadmap or agenda for the learning experience. Provide learners with
-	self-assessment tools or quizzes to help them gauge their existing knowledge
-	and skills. Encourage reflection on areas of strength and those requiring
-	improvement, aiding in the customization of their learning plan. Set clear
-	expectations for assessments and participation.
-</Card>
-
-## Lessons
-
-## 3. Outro
-
-Conclude the learning experience by reinforcing key points, assessing the learner’s knowledge and skill, and encouraging them to continue learning and practicing.
-
-### Review and Reiterate Importance
-
-Summarize the main concepts covered in the learning experience, emphasizing their relevance and application. This helps solidify the learner's understanding and appreciation of the material.
-
-### Assess for Understanding
-
-Use assessments to evaluate the learners' grasp of the material, providing both you and the learner with valuable feedback on their progress and areas for improvement.
-
-<Card title="Examples">
-
-Implement a quiz or a short test focusing on the core concepts of the course.
-Encourage learners to participate in a reflective exercise, such as a journal entry or discussion, to self-assess their understanding.
-Offer a practical assignment or case study that requires applying the concepts learned, serving as a real-world test of their knowledge.
-
-</Card>
-
-### Enhance Retention and Transfer
-
-Provide strategies and tools to help learners retain and apply the knowledge and skills they have acquired.
-
-<Card title="Examples">
-
-Suggest ongoing practices or habits that can help integrate the competencies into daily life.
-Offer additional resources, such as reading materials, websites, or communities, for continued learning.
-Encourage learners to teach a concept they've learned to someone else, as teaching is a powerful tool for reinforcing knowledge.
-
-</Card>
-
-### Explore What's Next
-
-Guide learners towards the next steps in their learning journey, whether it's advanced courses, related topics, or practical applications.
-
-<Card title="Examples">
-
-- Introduce upcoming courses or modules that build on the current material.
-- Suggest related areas of study or skills that complement what they have learned.
-- Encourage participation in community groups, forums, or events where they can continue to grow and apply their skills.
-
-</Card>
-
-### Congratulate and Sign Off
-
-End on a positive note by acknowledging the learner's effort and achievements, and provide a warm, encouraging sign-off.
-
-<Card title="Examples">
-
-Congratulate the learners on completing the course and commend their dedication to personal and professional growth.
-
-Express confidence in their ability to apply what they've learned in real-world scenarios.
-
-Sign off with a personal touch, such as "Keep advocating for inclusivity and cultural awareness in all that you do!"
-
-</Card>
+## 2. Lessons
 
 [^1]: [Competency Syntax, WGU Guidance System](https://guidance.wgu.edu/standards/knowledge-base/competency-syntax/)
 [^2]: [Competency Syntax Details, WGU Guidance System](https://guidance.wgu.edu/standards/knowledge-base/competency-syntax/#competency-syntax)
