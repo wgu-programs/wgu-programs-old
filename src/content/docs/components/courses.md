@@ -9,10 +9,14 @@ A course is a group of competencies that is assessed together and is able to be 
 
 Courses vary in content but have a common structure.
 
-### Course Introduction
+## 1. Course Intro
 
 ### Preparing for Success
 
 ### Course Resources
 
 ### Course Assessment
+
+## 2. Competencies
+
+## 3. Outro
