@@ -11,9 +11,10 @@ export default defineConfig({
 	integrations: [
 		starlight({
 			title: 'Structured Rapid Development',
-			// logo: {
-			// 	src: './src/assets/srd.svg',
-			// },
+			logo: {
+				src: './src/assets/srd.svg',
+        replacesTitle: true
+			},
 			defaultLocale: 'en',
 			sidebar: [
 				{

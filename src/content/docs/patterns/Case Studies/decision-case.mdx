@@ -1,8 +1,11 @@
 ---
 title: 'Decision Case'
 excerpt: ''
+layout: ../../../../layouts/Pattern.astro
 ---
 import { Card } from '@astrojs/starlight/components';
+import { default as Intro } from '../../../../ui-components/Intro.mdx';
+import { default as Outro } from '../../../../ui-components/Outro.mdx';
 
 A decision case puts learners into the shoes of a decision-maker during a critical moment of decision to teach both subject matter and critical thinking.
 
@@ -13,25 +16,24 @@ A learner needs to make a complex decision, taking into consideration a variety 
 A situation that requires a decision to be made
 :::
 
+## Intro
+<Intro />
 
+## 1. Case Background Information
+Set the stage with everything the learner needs to understand the case. Most case studies follow the steps of a protagonist. Give the learner a specific role, usually taking the place of the main character in the case. Most written cases initially start with giving situational context. Guide the learners through becoming familiar with the necessary context.
 
-Before beginning a Decision Case, use the Intro pattern to set the stage for the learning experience.
+## 2. Tool for solving the case (or part of it)
+Give the learner the keys to solving the case. Case studies aren’t just stories; each has a lesson to teach, and usually this involves applying some form of framework, theory, or tool to a situation. Teaching a cognitive tool can be implemented in a variety of ways: 
 
-## 1. Explore a case
+-	**Front-loaded**, where the tool is taught in its entirety before the learner confronts the situation in which they need to.
+-	**Just-in-time**, where the tool is broken into chunks and taught piece-by-piece as the narrative requires it. If you use just-in-time, you can just incorporate the practice into each “episode” page of the case. 
+-	**Backloaded**, where the tool is withheld, and the learner faces the narrative without the tool. Then the tool is provided once the learner has felt the challenges that gave rise to its development. 
 
-### Assign a role to the learner
+## 3. Episode(s)
+Place the learner in one or more situations that requires them to use your chosen tool or framework to identify and evaluate options to make a decision. This formative practice should usually include the following steps:
+1. Identify the decision
+2. Explore options
+3. Make a decision
 
-### Case Background Information
-
-## 2. Practice (Repeatable)
-
-### Identify the decision
-
-### Explore options
-
-### Make a decision
-
-
-## 5. Case Debrief
-
-## Examples
+## Outro
+<Outro/>
